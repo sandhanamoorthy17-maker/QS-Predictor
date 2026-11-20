@@ -1,2 +1,1 @@
-# QS-Predictor
-Quarter sequence predictions
+QS-Predictor
